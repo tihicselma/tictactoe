@@ -1,6 +1,6 @@
 # TicTacToe
 
-#Users can:
+# Users can:
 -Choose what game mode they want to play
 -Play one against the other
 -Play against an AI
