@@ -1,9 +1,9 @@
 # TicTacToe
 
 # Users can:
--Choose what game mode they want to play
--Play one against the other
--Play against an AI
+- Choose what game mode they want to play
+- Play one against the other
+- Play against an AI
 
 
 ### About the project:
