@@ -158,7 +158,7 @@ function availableMoves(board) {
   });
 }
 
-//minimax algorithm - explanation here: http://http://neverstopbuilding.com/minimax
+
 function miniMax(state, player) {
   var rv = checkVictory(state);
   if (rv === 'win') {

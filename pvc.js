@@ -1,6 +1,6 @@
 var player2Icon = 'X';
 var playerIcon = 'O';
-var currentPlayer = 1; // Initialize currentPlayer to Player 1
+var currentPlayer = 1; 
 var TwoMove;
 var liveBoard = [1, -1, -1, -1, 1, 1, 1, -1, -1];
 var winningLines = [
